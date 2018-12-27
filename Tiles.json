@@ -1,0 +1,10 @@
+[
+    {
+        "type":"Start"
+    },
+    {
+        "type":"Travel",
+        "color":"none",
+        "building":"none"
+    }
+]
